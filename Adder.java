@@ -3,6 +3,6 @@ import java.util.*;
 public interface Adder extends Remote
 {
 public ArrayList<String> checkEQ(String arg1,String  arg2) throws RemoteException;
-}
+           }
 
 system.out.println("Hi I am harshit")
